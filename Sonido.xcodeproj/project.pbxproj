@@ -14,6 +14,7 @@
 		3D0BCA38230DEA6C00FB15EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D0BCA36230DEA6C00FB15EB /* LaunchScreen.storyboard */; };
 		3D0BCA43230DEA6C00FB15EB /* SonidoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0BCA42230DEA6C00FB15EB /* SonidoTests.swift */; };
 		3D0BCA4E230DEA6C00FB15EB /* SonidoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0BCA4D230DEA6C00FB15EB /* SonidoUITests.swift */; };
+		3D0BCA5C230DEC6200FB15EB /* MASQUERADE MIRAGE.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3D0BCA5B230DEC6200FB15EB /* MASQUERADE MIRAGE.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3D0BCA49230DEA6C00FB15EB /* SonidoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SonidoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D0BCA4D230DEA6C00FB15EB /* SonidoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SonidoUITests.swift; sourceTree = "<group>"; };
 		3D0BCA4F230DEA6C00FB15EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D0BCA5B230DEC6200FB15EB /* MASQUERADE MIRAGE.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "MASQUERADE MIRAGE.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		3D0BCA2C230DEA6A00FB15EB /* Sonido */ = {
 			isa = PBXGroup;
 			children = (
+				3D0BCA5B230DEC6200FB15EB /* MASQUERADE MIRAGE.mp3 */,
 				3D0BCA2D230DEA6A00FB15EB /* AppDelegate.swift */,
 				3D0BCA2F230DEA6A00FB15EB /* ViewController.swift */,
 				3D0BCA31230DEA6A00FB15EB /* Main.storyboard */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D0BCA5C230DEC6200FB15EB /* MASQUERADE MIRAGE.mp3 in Resources */,
 				3D0BCA38230DEA6C00FB15EB /* LaunchScreen.storyboard in Resources */,
 				3D0BCA35230DEA6C00FB15EB /* Assets.xcassets in Resources */,
 				3D0BCA33230DEA6A00FB15EB /* Main.storyboard in Resources */,
